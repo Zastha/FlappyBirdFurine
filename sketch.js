@@ -2,6 +2,7 @@
   Nombre: Rene Zazueta Zazueta
   Fecha: 28/11/2023
   Proyecto: Flappy Bird Personalizado
+  Wasabi: 2.0
 */
 
 let imagenFondo
